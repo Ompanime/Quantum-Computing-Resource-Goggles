@@ -41,7 +41,7 @@ $boost=1,site=epjquantumtechnology.springeropen.com
 $boost=1,site=explorer.tidecoin.org
 $boost=1,site=falcon-sign.info
 $boost=1,site=fqt.unsw.edu.au
-! $boost=1,site=genmat.xyz (Don't include - company selling product that utilizes quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
+! $boost=1,site=genmat.xyz (Don't include - company selling product that utilities quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
 $boost=1,site=global-qi.com
 $boost=1,site=horizonquantum.com
 $boost=1,site=infleqtion.com
@@ -51,7 +51,7 @@ $boost=1,site=iqm.jhu.edu
 $boost=1,site=iqmacademy.com
 $boost=1,site=isara.com
 $boost=1,site=j-ij.com
-! $boost=1,site=kuano.ai (Don't include - company selling product that utilizes quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
+! $boost=1,site=kuano.ai (Don't include - company selling product that utilities quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
 $boost=1,site=kvantify.com
 $boost=1,site=learning.quantum.ibm.com
 $boost=1,site=multiversecomputing.com
@@ -70,7 +70,7 @@ $boost=1,site=photonic.com
 $boost=1,site=planqc.eu
 $boost=1,site=polarisqb.com
 $boost=1,site=pqshield.com
-! $boost=1,site=proteinqure.com (Don't include - company selling product that utilizes quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
+! $boost=1,site=proteinqure.com (Don't include - company selling product that utilities quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
 $boost=1,site=psiquantum.com
 $boost=1,site=q-ctrl.com
 $boost=1,site=q-day.org
@@ -111,7 +111,7 @@ $boost=1,site=quantuminternetalliance.org
 $boost=1,site=quantumlah.org
 $boost=1,site=quantummotion.tech
 $boost=1,site=quantumplayground.net
-! $boost=1,site=quantumsimulations.de (Don't include - company selling product that utilizes quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
+! $boost=1,site=quantumsimulations.de (Don't include - company selling product that utilities quantum technology, but doesn't seem to be contributing to the development of quantum technology.)
 $boost=1,site=quantumtechcongress.com
 $boost=1,site=quantumtechdigital.co.uk
 $boost=1,site=quantumzeitgeist.com
@@ -122,6 +122,7 @@ $boost=1,site=quixquantum.com
 $boost=1,site=quixquantum.medium.com
 $boost=1,site=qunasys.com
 $boost=1,site=qunasys.medium.com
+$boost=1,site=quside.com
 ! $boost=1,site=qwerx.co (Don't include - vetting needed to see if product is actually quantum resistant according to NIST standards.)
 $boost=1,site=rigetti.com
 $boost=1,site=riverlane.com
@@ -135,7 +136,7 @@ $boost=1,site=theqrlcontributors.org
 $boost=1,site=thequantuminsider.com
 $boost=1,site=tidecoin.co
 $boost=1,site=tidecoin.exchange
-! $boost=1,site=tidecoin.info (Dont include - site is seemingly unresponsive.)
+! $boost=1,site=tidecoin.info (Don't include - site is seemingly unresponsive.)
 $boost=1,site=turingq.com
 $boost=1,site=turingquantum.com
 $boost=1,site=universalquantum.com
@@ -147,6 +148,8 @@ $boost=1,site=zapata.ai
 /@universalquantum$boost=1,site=medium.com
 /AgnostiqHQ$boost=1,site=github.com
 /azure-quantum$boost=1,site=azure.microsoft.com
+/blogs/quantum-computing$boost=1,site=aws.amazon.com
+/braket$boost=1,site=aws.amazon.com
 /D-Wave_Systems$boost=1,site=wikipedia.org
 /dwavequantum$boost=1,site=twitter.com
 /IBM_Quantum_Platform$boost=1,site=wikipedia.org
@@ -159,6 +162,7 @@ $boost=1,site=zapata.ai
 /qrledger$boost=1,site=twitter.com
 /qsharp$boost=1,site=devblogs.microsoft.com
 /quantastica$boost=1,site=github.com
+/quantum$boost=1,site=aws.amazon.com
 /quantum$boost=1,site=azure.microsoft.com
 /quantum$boost=1,site=cloudblogs.microsoft.com
 /quantum$boost=1,site=cs.ox.ac.uk
@@ -167,10 +171,12 @@ $boost=1,site=zapata.ai
 /quantum-computers$boost=1,site=aws.amazon.com
 /quantum-computing$boost=1,site=azure.microsoft.com
 /quantum-computing$boost=1,site=edx.org
+/quantum-computing$boost=1,site=oxinst.com
 /quantum-computing$boost=1,site=research.ibm.com
 /Quantum-Computing-Newsletter-Signup.html$boost=1,site=info.microsoft.com
 /quantum-resistant-cryptography$boost=1,site=archonsecure.com
 /quantum-resistant-encryption-why-its-critical-to-future-cybersecurity$boost=1,site=thesslstore.com
+/quantum-solutions-lab$boost=1,site=aws.amazon.com
 /quantum-technologies-for-engineering$boost=1,site=a-star.edu.sg
 /r/QRL$boost=1,site=reddit.com
 /r/QuantumComputing$boost=1,site=reddit.com
@@ -183,6 +189,7 @@ $boost=1,site=zapata.ai
 /tidecoin$boost=1,site=twitter.com
 /tidecoin-old$boost=1,site=github.com
 /topics/quantum-computing$boost=1,site=ibm.com
+/what-is/quantum-computing$boost=1,site=aws.amazon.com
 
 
 
